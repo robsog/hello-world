@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Product designer working on Intelligent Mainframe solutions at Broadcom in Prague.
